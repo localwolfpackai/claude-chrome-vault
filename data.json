@@ -1,0 +1,75 @@
+{
+  "lastUpdated": "2026-06-24",
+  "entries": [
+    {
+      "type": "color",
+      "name": "Vivid Blue",
+      "hex": "#1A73E8",
+      "source": "https://www.colorxs.com/color/hex-1a73e8",
+      "notes": "Bright, trustworthy blue (Google-style). Good for primary actions and links.",
+      "token": "--brand-primary",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "font",
+      "name": "Disket Mono",
+      "source": "https://rostype.com/disket/",
+      "foundry": "Rostype",
+      "notes": "Geometric monospace with a technical, display feel. Strong for headers and labels.",
+      "license": "check source before commercial use",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "font",
+      "name": "Srbija Sans",
+      "source": "https://www.srbijasans.rs/",
+      "foundry": "Srbija Sans",
+      "notes": "Clean humanist sans. Versatile for body and UI text.",
+      "license": "check source before commercial use",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "pattern",
+      "name": "Dynamic Header with Intersection Observer",
+      "source": "https://garden.bradwoods.io/notes/javascript/web-api/intersection-observer/dynamic-header",
+      "altSource": "https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+      "notes": "Observe a sentinel element near the top of the page; toggle a header class when it leaves/enters view to show/hide or restyle the header on scroll.",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "tool",
+      "name": "React memo / useMemo / useCallback",
+      "source": "https://garden.bradwoods.io/notes/javascript/react/memo-use-memo-use-callback",
+      "notes": "Memoization decision notes: memo for components, useMemo for values, useCallback for stable function identity. Use to avoid needless re-renders.",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "tool",
+      "name": "eslint-plugin-react",
+      "source": "https://github.com/jsx-eslint/eslint-plugin-react",
+      "notes": "React-specific linting rules for ESLint. Baseline for catching React mistakes.",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "tool",
+      "name": "TanStack Builder",
+      "source": "https://tanstack.com/builder",
+      "notes": "Tooling from the TanStack ecosystem. Worth tracking for modern front-end building blocks.",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "pattern",
+      "name": "Design Systems (Smashing Magazine)",
+      "source": "https://www.smashingmagazine.com/category/design-systems",
+      "notes": "Ongoing reference category for design-system thinking and articles.",
+      "dateAdded": "2026-06-24"
+    },
+    {
+      "type": "pattern",
+      "name": "Inverse (editorial design inspiration)",
+      "source": "https://www.inverse.com/",
+      "notes": "Editorial site saved for layout, type scale, and visual rhythm inspiration.",
+      "dateAdded": "2026-06-24"
+    }
+  ]
+}
